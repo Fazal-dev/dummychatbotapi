@@ -1,3 +1,5 @@
+import CodeExamples from "@/components/CodeExamples";
+import DemoConsole from "@/components/DemoConsole";
 import Features from "@/components/Features";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
@@ -10,6 +12,8 @@ export default function Home() {
       <main className="flex-grow ">
         <Hero />
         <Features />
+        <CodeExamples />
+        <DemoConsole />
       </main>
       <Footer />
     </div>

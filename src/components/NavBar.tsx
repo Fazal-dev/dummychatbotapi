@@ -19,12 +19,6 @@ const Navbar = () => {
             >
               Features
             </a>
-            <a
-              href="#"
-              className="text-foreground/70 hover:text-foreground transition-colors"
-            >
-              Pricing
-            </a>
             <Link
               href="/docs"
               className="text-foreground/70 hover:text-foreground transition-colors"
