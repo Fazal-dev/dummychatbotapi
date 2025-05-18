@@ -74,7 +74,7 @@ const DemoConsole = () => {
   };
 
   return (
-    <section className="py-16 bg-background">
+    <section id="demo" className="py-16 bg-background">
       <div className="container px-4 md:px-6">
         <div className="text-center mb-10">
           <h2 className="text-3xl font-bold mb-2">Try It Yourself</h2>

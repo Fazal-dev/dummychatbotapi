@@ -14,6 +14,12 @@ const Navbar = () => {
 
           <nav className="hidden md:flex items-center space-x-6 text-sm font-medium">
             <a
+              href="#demo"
+              className="text-foreground/70 hover:text-foreground transition-colors"
+            >
+              Demo
+            </a>
+            <a
               href="#features"
               className="text-foreground/70 hover:text-foreground transition-colors"
             >
